@@ -126,17 +126,27 @@ export function Footer() {
             <ul className="space-y-3 text-slate-400">
               <li className="flex items-center space-x-2">
                 <Mail className="h-4 w-4" />
-                <Link href="mailto:softwaresolutionsagency@gmail.com">
+                <a
+                  href="mailto:softwaresolutionsagency@gmail.com"
+                  className="text-slate-400 hover:text-emerald-400 transition-colors"
+                >
                   softwaresolutionsagency@gmail.com
-                </Link>
+                </a>
               </li>
               <li className="flex items-center space-x-2">
                 <Phone className="h-4 w-4" />
-                <span>+17472938171</span>
+                <a
+                  href="tel:+17472938171"
+                  className="text-slate-400 hover:text-emerald-400 transition-colors"
+                >
+                  +17472938171
+                </a>
               </li>
               <li className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4" />
-                <span>1 League Irvine, CA 92602 United States</span>
+                <address className="not-italic text-slate-400">
+                  1 League Irvine, CA 92602 United States
+                </address>
               </li>
             </ul>
           </div>

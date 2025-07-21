@@ -11,12 +11,12 @@ export const metadata: Metadata = {
     other: [
       {
         rel: "icon",
-        url: "/favicon-32x32.png",
+        url: "/pexels-fauxels-3184465.jpg",
         sizes: "32x32",
       },
       {
         rel: "icon",
-        url: "/favicon-16x16.png",
+        url: "/pexels-fauxels-3184465.jpg",
         sizes: "16x16",
       },
     ],
@@ -30,7 +30,7 @@ export const metadata: Metadata = {
     siteName: "Software Solutions Agency",
     images: [
       {
-        url: "https://sofware-solutions.vercel.app/og-image.png",
+        url: "https://sofware-solutions.vercel.app/pexels-fauxels-3184465.jpg",
         width: 1200,
         height: 630,
         alt: "Software Solutions Agency",
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     title: "Software Solutions Agency",
     description:
       "End-to-end software solutions from simple websites to enterprise systems.",
-    images: ["https://sofware-solutions.vercel.app/og-image.png"],
+    images: ["https://sofware-solutions.vercel.app/pexels-fauxels-3184465.jpg"],
     creator: "@your_twitter_handle",
   },
   robots: {

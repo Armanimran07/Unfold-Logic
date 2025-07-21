@@ -160,7 +160,7 @@ export default function AboutPage() {
             <Card className="text-center">
               <CardHeader>
                 <div className="w-24 h-24 bg-gradient-to-br from-orange-400 to-red-400 rounded-full mx-auto mb-4 flex items-center justify-center text-white text-2xl font-bold">
-                  DL
+                  DH
                 </div>
                 <CardTitle>Dylan Hetman</CardTitle>
                 <CardDescription>

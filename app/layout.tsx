@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Software Solutions Agency",
     description:
-      "End-to-end software solutions from simple websites to enterprise systems.",
+      "End-to-end software solutions from simple websites to enterprise systems. Quality work on accelerated timelines. we build first you pay after.!",
     url: "https://software-solutions-agency.vercel.app/",
     siteName: "Software Solutions Agency",
     images: [
@@ -43,7 +43,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Software Solutions Agency",
     description:
-      "End-to-end software solutions from simple websites to enterprise systems.",
+      "End-to-end software solutions from simple websites to enterprise systems.  Quality work on accelerated timelines. we build first you pay after.!",
     images: [
       "https://software-solutions-agency.vercel.app/pexels-fauxels-3184465.jpg",
     ],

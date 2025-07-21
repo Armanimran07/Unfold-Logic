@@ -335,7 +335,7 @@ export default function ContactPage() {
                     <MapPin className="h-5 w-5 text-emerald-500" />
                     <div>
                       <div className="font-medium">Office</div>
-                      <address className="text-slate-600">
+                      <address className="text-slate-600 not-italic">
                         1 League Irvine
                         <br />
                         CA 92602 United States

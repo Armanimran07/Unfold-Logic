@@ -199,11 +199,11 @@ export default function ContactPage() {
                               E-commerce Store
                             </SelectItem>
                             <SelectItem value="webapp">
-                              Web Application
+                              Blockchain Development
                             </SelectItem>
                             <SelectItem value="mobile">Mobile App</SelectItem>
                             <SelectItem value="maintenance">
-                              Maintenance & Support
+                              Web3
                             </SelectItem>
                             <SelectItem value="consulting">
                               Consulting
@@ -313,9 +313,9 @@ export default function ContactPage() {
                       <div className="font-medium">Email</div>
                       <a
                         className="text-slate-600 hover:text-emerald-500 transition-colors"
-                        href="mailto:softwaresolutionsagency@gmail.com"
+                        href="mailto:unfoldlogic@gmail.com"
                       >
-                        softwaresolutionsagency@gmail.com
+                        unfoldlogic@gmail.com
                       </a>
                     </div>
                   </div>
@@ -325,9 +325,9 @@ export default function ContactPage() {
                       <div className="font-medium">Phone</div>
                       <a
                         className="text-slate-600 hover:text-emerald-500 transition-colors"
-                        href="tel:+17472938171"
+                        href="tel:+91 6005548254"
                       >
-                        +17472938171
+                        +91 6005548254
                       </a>
                     </div>
                   </div>
@@ -336,9 +336,9 @@ export default function ContactPage() {
                     <div>
                       <div className="font-medium">Office</div>
                       <address className="text-slate-600 not-italic">
-                        1 League Irvine
+                        1 India
                         <br />
-                        CA 92602 United States
+                        Ahmedabad, Gujarat India
                       </address>
                     </div>
                   </div>

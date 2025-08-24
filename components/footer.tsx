@@ -17,7 +17,7 @@ export function Footer() {
           <div className="col-span-1">
             <Link href="/" className="flex items-center space-x-2 mb-4">
               <Code2 className="h-8 w-8 text-emerald-400" />
-              <span className="text-xl font-bold">SoftwareSolutions</span>
+              <span className="text-xl font-bold">Unfold Logic</span>
             </Link>
             <p className="text-slate-400 mb-4">
               End-to-end software solutions from simple websites to enterprise
@@ -25,7 +25,7 @@ export function Footer() {
             </p>
             <div className="flex space-x-4">
               <Link
-                href="#"
+                href="https://www.linkedin.com/search/results/all/?heroEntityKey=urn%3Ali%3Aorganization%3A107070887&keywords=Unfold%20Logic&origin=ENTITY_SEARCH_HOME_HISTORY&sid=9Yk"
                 className="text-slate-400 hover:text-emerald-400 transition-colors"
               >
                 <Linkedin className="h-5 w-5" />
@@ -37,7 +37,7 @@ export function Footer() {
                 <Twitter className="h-5 w-5" />
               </Link>
               <Link
-                href="#"
+                href="https://github.com/Armanimran07"
                 className="text-slate-400 hover:text-emerald-400 transition-colors"
               >
                 <Github className="h-5 w-5" />
@@ -61,7 +61,7 @@ export function Footer() {
                   href="/services#software"
                   className="hover:text-emerald-400 transition-colors"
                 >
-                  Custom Software
+                  Web3
                 </Link>
               </li>
               <li>
@@ -69,7 +69,7 @@ export function Footer() {
                   href="/services#maintenance"
                   className="hover:text-emerald-400 transition-colors"
                 >
-                  Maintenance & Support
+                  Blockchain Development
                 </Link>
               </li>
               <li>
@@ -77,7 +77,7 @@ export function Footer() {
                   href="/services#consulting"
                   className="hover:text-emerald-400 transition-colors"
                 >
-                  Consulting & Design
+                  Software Development
                 </Link>
               </li>
             </ul>
@@ -127,10 +127,10 @@ export function Footer() {
               <li className="flex items-center space-x-2">
                 <Mail className="h-4 w-4" />
                 <a
-                  href="mailto:softwaresolutionsagency@gmail.com"
+                  href="mailto:unfoldlogic@gmail.com"
                   className="text-slate-400 hover:text-emerald-400 transition-colors"
                 >
-                  softwaresolutionsagency@gmail.com
+                  unfoldloogic@gmail.com
                 </a>
               </li>
               <li className="flex items-center space-x-2">
@@ -139,13 +139,13 @@ export function Footer() {
                   href="tel:+17472938171"
                   className="text-slate-400 hover:text-emerald-400 transition-colors"
                 >
-                  +17472938171
+                  +91 6005548254
                 </a>
               </li>
               <li className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4" />
                 <address className="not-italic text-slate-400">
-                  1 League Irvine, CA 92602 United States
+                  Ahmedabad, Gujarat, India
                 </address>
               </li>
             </ul>
@@ -153,7 +153,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-slate-800 mt-8 pt-8 text-center text-slate-400">
-          <p>&copy; 2024 SoftwareSolutions Agency. All rights reserved.</p>
+          <p>&copy; 2024 UnfoldLogic Agency. All rights reserved.</p>
         </div>
       </div>
     </footer>

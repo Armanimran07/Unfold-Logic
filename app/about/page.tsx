@@ -126,15 +126,16 @@ export default function AboutPage() {
             <Card className="text-center">
               <CardHeader>
                 <div className="w-24 h-24 bg-gradient-to-br from-emerald-400 to-cyan-400 rounded-full mx-auto mb-4 flex items-center justify-center text-white text-2xl font-bold">
-                  MF
+                  AK
                 </div>
-                <CardTitle>Miles Freeman</CardTitle>
-                <CardDescription>Lead Developer & Co-Founder</CardDescription>
+                <CardTitle>Akash Kumar Jha</CardTitle>
+                <CardDescription>Founder</CardDescription>
               </CardHeader>
               <CardContent>
                 <p className="text-slate-600">
-                  7+ years in full-stack development. Specializes in Next.js,
-                  TypeScript, NestJS, and cloud solutions.
+                  Are you facing challenges in growing your business?
+
+As your growth partner, I specialize in unleashing your business's full potential, With strategic development and powerful marketing solutions
                 </p>
               </CardContent>
             </Card>
@@ -142,11 +143,11 @@ export default function AboutPage() {
             <Card className="text-center">
               <CardHeader>
                 <div className="w-24 h-24 bg-gradient-to-br from-purple-400 to-pink-400 rounded-full mx-auto mb-4 flex items-center justify-center text-white text-2xl font-bold">
-                  MJ
+                  IN
                 </div>
-                <CardTitle>Maria Johnson</CardTitle>
+                <CardTitle>Imran Najar</CardTitle>
                 <CardDescription>
-                  UX/UI Designer & Creative Director
+                  Co-Founder
                 </CardDescription>
               </CardHeader>
               <CardContent>
@@ -160,11 +161,11 @@ export default function AboutPage() {
             <Card className="text-center">
               <CardHeader>
                 <div className="w-24 h-24 bg-gradient-to-br from-orange-400 to-red-400 rounded-full mx-auto mb-4 flex items-center justify-center text-white text-2xl font-bold">
-                  DH
+                  RS
                 </div>
-                <CardTitle>Dylan Hetman</CardTitle>
+                <CardTitle>Ryan</CardTitle>
                 <CardDescription>
-                  Client Success & Outreach Manager
+                  Techniacal Support
                 </CardDescription>
               </CardHeader>
               <CardContent>

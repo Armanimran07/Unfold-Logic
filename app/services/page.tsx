@@ -202,45 +202,42 @@ export default function ServicesPage() {
               <div>
                 <div className="flex items-center mb-6">
                   <Shield className="h-12 w-12 text-emerald-500 mr-4" />
-                  <h2 className="text-3xl md:text-4xl font-bold text-slate-900">Maintenance & Support</h2>
+                  <h2 className="text-3xl md:text-4xl font-bold text-slate-900">BlockChain Development</h2>
                 </div>
                 <p className="text-lg text-slate-600 mb-6 leading-relaxed">
-                  Keep your website secure, updated, and running smoothly with our comprehensive maintenance plans. From
-                  security patches to content updates, we handle the technical details so you can focus on your
-                  business.
+                  We build secure and scalable blockchain solutions, from smart contracts and decentralized apps to NFT and DeFi platforms, helping businesses embrace the future of digital innovation.
                 </p>
                 <ul className="space-y-3 mb-8">
                   <li className="flex items-center">
                     <CheckCircle className="h-5 w-5 text-emerald-500 mr-3" />
-                    <span className="text-slate-700">Regular security updates</span>
+                    <span className="text-slate-700">Smart contract development</span>
                   </li>
                   <li className="flex items-center">
                     <CheckCircle className="h-5 w-5 text-emerald-500 mr-3" />
-                    <span className="text-slate-700">Performance monitoring</span>
+                    <span className="text-slate-700">Decentralized app (dApp) solutions</span>
                   </li>
                   <li className="flex items-center">
                     <CheckCircle className="h-5 w-5 text-emerald-500 mr-3" />
-                    <span className="text-slate-700">Content updates & changes</span>
+                    <span className="text-slate-700">NFT marketplace creation</span>
                   </li>
                   <li className="flex items-center">
                     <CheckCircle className="h-5 w-5 text-emerald-500 mr-3" />
-                    <span className="text-slate-700">Backup & disaster recovery</span>
+                    <span className="text-slate-700">Private & public blockchain integration</span>
                   </li>
                   <li className="flex items-center">
                     <CheckCircle className="h-5 w-5 text-emerald-500 mr-3" />
-                    <span className="text-slate-700">24/7 technical support</span>
+                    <span className="text-slate-700">Ongoing security & scalability support</span>
                   </li>
                 </ul>
                 <div className="bg-emerald-50 p-6 rounded-lg mb-8">
-                  <h3 className="font-semibold text-slate-900 mb-2">Starting at $100/month</h3>
+                  <h3 className="font-semibold text-slate-900 mb-2">Tailored to Your Needs</h3>
                   <p className="text-slate-600">
-                    Flexible plans from basic maintenance to full-service support. Annual plans available with
-                    significant savings.
+Customized solutions designed to match your business goals                    significant savings.
                   </p>
                 </div>
                 <Button asChild className="bg-emerald-500 hover:bg-emerald-600">
                   <Link href="/pricing">
-                    View Maintenance Plans <ArrowRight className="ml-2 h-4 w-4" />
+                    Projects <ArrowRight className="ml-2 h-4 w-4" />
                   </Link>
                 </Button>
               </div>
